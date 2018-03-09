@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SensorSensor</string>
+    <string name="sensor_value_accel">Accel. %.2fm/s2</string>
+    <string name="sensor_value_force">Force %.2fN</string>
+    <string name="ouch">Ouch! %.2fN</string>
+    <string name="reset">RESET</string>
+    <string name="seekbar_label">Sensitivity %dN</string>
+    <string name="weight">Weight(Kg)</string>
+</resources>
